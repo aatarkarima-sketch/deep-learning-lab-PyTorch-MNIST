@@ -2,7 +2,8 @@
 
 **Université Abdelmalek Essaâdi – FST Tanger – Département Génie Informatique**
 **Module :** Deep Learning – Pr. EL AACHAK Lotfi
-**Étudiant(e) :** _Nom Prénom_ – _Filière_
+**Étudiante :** AATAR KARIMA
+**Master :** Sécurité IT & Big DATA
 
 Ce dépôt contient le travail du Lab 2 : classification de MNIST avec un CNN, Faster R-CNN, VGG16 / AlexNet et un Vision Transformer (ViT) implémenté from scratch.
 
